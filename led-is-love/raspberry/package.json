@@ -1,0 +1,16 @@
+{
+  "name": "led-is-love-backend",
+  "version": "1.0.0",
+  "description": "The backend for smart lamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Horokhov (nerveclasp@gmail.com), Kyiv, Ukraine",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^4.5.0",
+    "firebase-admin": "^5.4.2",
+    "serialport": "^5.0.0"
+  }
+}
